@@ -25,4 +25,3 @@ Given an array, print all the elements of the array *in-order* where each elemen
 Sample Case: arr = [-8,0,3,1,6,2,1,0,6,-8,2]
 Output: [-8,0,3,1,6,2]
 ```
-
